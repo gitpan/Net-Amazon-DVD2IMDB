@@ -1,4 +1,4 @@
-Net/Amazon/DVD2IMDB version 0.02
+Net/Amazon/DVD2IMDB version 0.03
 ==================================
 
 This module is designed to convert DVD ASIN numbers to their associated IMDB tag. 

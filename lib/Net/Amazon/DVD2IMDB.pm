@@ -4,7 +4,7 @@ use LWP::Simple;
 use Net::Amazon;
 use Net::Amazon::Request::Keyword;
 
-$VERSION = '0.02';
+our $VERSION = 0.03;
 
 sub new {
   my $ref = shift;
